@@ -1,7 +1,19 @@
 {
   "name": "landing2",
-  "version": "0.0.1",
-  "dependencies": {
-    
-  }
+  "version": "1.0.0",
+  "description": "itvdn landing page creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puritycg/ITVDN_Landing.git"
+  },
+  "author": "Anton Neverov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puritycg/ITVDN_Landing/issues"
+  },
+  "homepage": "https://github.com/puritycg/ITVDN_Landing#readme"
 }
